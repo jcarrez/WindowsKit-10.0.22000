@@ -11,7 +11,7 @@ Contains Windows Preinstallation Environment for architectures :
 
 ## Fr
 
-*Windows ADK 10.0.22000* et *Windows ADK PE 10.0.22000*
+*Windows ADK 10.0.22000* et *Windows ADK PE 10.0.22000*  
 Contient Windows l'Environnement de Préinstallation de Windows pour les architectures :
 * amd64
 * arm
